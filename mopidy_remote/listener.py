@@ -3,7 +3,7 @@ import logging
 import pykka
 from mopidy.core import CoreListener
 from .library import RemoteLibrary
-from .remote import Remote
+from .frontend import Remote
 
 logger = logging.getLogger(__name__)
 

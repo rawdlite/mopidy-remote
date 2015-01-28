@@ -3,8 +3,8 @@ from __future__ import unicode_literals
 import logging
 import pylast
 
-API_KEY = 'e75681cd49bd19325160be920cb76c12'
-API_SECRET = '4c706c0bb73f4b6d3c073c442d5879a8'
+API_KEY = '56e851239917399f79ed0e97e6431894'
+API_SECRET = '081714a14e0bf3e3517b256f281ad437'
 
 logger = logging.getLogger(__name__)
 

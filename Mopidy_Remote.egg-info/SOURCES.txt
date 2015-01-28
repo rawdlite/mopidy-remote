@@ -11,10 +11,11 @@ Mopidy_Remote.egg-info/not-zip-safe
 Mopidy_Remote.egg-info/requires.txt
 Mopidy_Remote.egg-info/top_level.txt
 mopidy_remote/__init__.py
+mopidy_remote/ext.conf
+mopidy_remote/frontend.py
 mopidy_remote/lastfm.py
 mopidy_remote/library.py
 mopidy_remote/listener.py
-mopidy_remote/remoteplay.py
 mopidy_remote/track_info.py
 tests/__init__.py
 tests/library_test.py

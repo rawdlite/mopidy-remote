@@ -3,6 +3,6 @@ include .travis.yml
 include LICENSE
 include MANIFEST.in
 include README.rst
-include mopidy_randomplay/ext.conf
+include mopidy_remote/ext.conf
 
 recursive-include tests *.py

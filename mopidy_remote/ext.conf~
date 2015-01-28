@@ -1,9 +1,0 @@
-[randomplay]
-enabled = true
-set_consume = true
-get_tracks = 0
-get_albums = 1
-find_exact = false
-database = /var/lib/mopidy/randomplay.db
-lastfm_username = username
-lastfm_password = password
