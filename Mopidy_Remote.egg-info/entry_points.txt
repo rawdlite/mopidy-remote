@@ -1,3 +1,0 @@
-[mopidy.ext]
-remote = mopidy_remote:Extension
-
